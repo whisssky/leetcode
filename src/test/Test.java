@@ -1,11 +1,14 @@
 package test;
 
+import org.apache.commons.beanutils.locale.converters.DateLocaleConverter;
+
 public class Test {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-		String a = "abcdef";
-		System.out.println(a.substring(1,2));
+		String date = "2012-4-34";
+		DateLocaleConverter conver = new DateLocaleConverter();
+		conver.convert(date);
+		System.out.println(date);
 
 	}
 
