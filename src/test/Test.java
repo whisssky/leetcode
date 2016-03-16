@@ -1,14 +1,14 @@
 package test;
 
 import org.apache.commons.beanutils.locale.converters.DateLocaleConverter;
-
+/*
+ * 供编程时测试学习一些函数和功能的用法
+ */
 public class Test {
 
 	public static void main(String[] args) {
-		String date = "2012-4-34";
-		DateLocaleConverter conver = new DateLocaleConverter();
-		conver.convert(date);
-		System.out.println(date);
+		char a = '4';
+		System.out.println(a-48);
 
 	}
 
