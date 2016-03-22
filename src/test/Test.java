@@ -7,8 +7,8 @@ import org.apache.commons.beanutils.locale.converters.DateLocaleConverter;
 public class Test {
 
 	public static void main(String[] args) {
-		char a = '4';
-		System.out.println(a-48);
+		String a = "abcderf";
+		System.out.println(a.substring(1));
 
 	}
 
