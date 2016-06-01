@@ -1,0 +1,1 @@
+/usr/local/bin/runghc classcast.hs

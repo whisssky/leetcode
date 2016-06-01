@@ -10,17 +10,14 @@ public class Solution {
 		ListNode l2 = new ListNode(3);
 		l2.next = new ListNode(6);
 		l2.next.next = new ListNode(7);
-		ListNode a = addTwoNumbers(l1,l2);
-		while(a!=null)
-		{
-			System.out.println(a.val+"   ");
-			a=a.next;
-		}
+		Solution s = new Solution();
+		ListNode a = s.addTwoNumbers(l1,l2);
+
 		
 
 	}
 	
-	public static ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+	public  ListNode addTwoNumbers(ListNode l1, ListNode l2) {
         ListNode head = new ListNode(0);
         ListNode p1=l1,p2=l2,p=head;
         int c=0;

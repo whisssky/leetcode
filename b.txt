@@ -1,0 +1,1 @@
+a.sh: line 2: ghc: command not found

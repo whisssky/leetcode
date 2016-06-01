@@ -1,15 +1,19 @@
-package test;
+package test;  
+import java.io.BufferedInputStream;  
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.net.URLEncoder;
+import java.util.regex.Matcher;
+import java.util.regex.Pattern;  
+  
+public class Test {  
+    public static void main(String[] args) throws IOException {  
+    	String s = "ab";
+    	if(s.contains())
+    		System.out.println(s);
 
-import org.apache.commons.beanutils.locale.converters.DateLocaleConverter;
-/*
- * 供编程时测试学习一些函数和功能的用法
- */
-public class Test {
-
-	public static void main(String[] args) {
-		String a = "abcderf";
-		System.out.println(a.substring(1));
-
-	}
-
-}
+		
+    	
+    	
+} }

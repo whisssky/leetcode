@@ -1,0 +1,70 @@
+1. (Nothing,"heap",[([Addr (Nat 4)],([Null,Unit,Unit,Unit,Unit],("Test_error",("main",Nat 1))))])
+
+2. (Nothing,"heap",[([],([Null,Unit,Unit,Unit,Addr (Nat 4)],("Test_error",("main",Nat 2))))])
+
+3. (Nothing,"heap",[([Addr (Nat 4)],([Null,Unit,Unit,Unit,Addr (Nat 4)],("Test_error",("main",Nat 3))))])
+
+4. (Nothing,"heap",[([Addr (Nat 4),Addr (Nat 4)],([Null,Unit,Unit,Unit,Addr (Nat 4)],("Test_error",("main",Nat 4))))])
+
+5. (Nothing,"heap",[([],([Addr (Nat 4),Unit,Unit],("A",("A",Nat 0)))),([Addr (Nat 4),Addr (Nat 4)],([Null,Unit,Unit,Unit,Addr (Nat 4)],("Test_error",("main",Nat 4))))])
+
+6. (Nothing,"heap",[([Addr (Nat 4)],([Addr (Nat 4),Unit,Unit],("A",("A",Nat 1)))),([Addr (Nat 4),Addr (Nat 4)],([Null,Unit,Unit,Unit,Addr (Nat 4)],("Test_error",("main",Nat 4))))])
+
+7. (Nothing,"heap",[([Unit,Addr (Nat 4)],([Addr (Nat 4),Unit,Unit],("A",("A",Nat 2)))),([Addr (Nat 4),Addr (Nat 4)],([Null,Unit,Unit,Unit,Addr (Nat 4)],("Test_error",("main",Nat 4))))])
+
+8. (Nothing,"heap",[([Unit,Addr (Nat 4)],([Null,Unit,Unit,Unit,Addr (Nat 4)],("Test_error",("main",Nat 5))))])
+
+9. (Nothing,"heap",[([Addr (Nat 4)],([Null,Unit,Unit,Unit,Addr (Nat 4)],("Test_error",("main",Nat 6))))])
+
+10. (Nothing,"heap",[([],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 4)],("Test_error",("main",Nat 7))))])
+
+11. (Nothing,"heap",[([Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 4)],("Test_error",("main",Nat 8))))])
+
+12. (Nothing,"heap",[([],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 9))))])
+
+13. (Nothing,"heap",[([Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 10))))])
+
+14. (Nothing,"heap",[([Addr (Nat 5),Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 11))))])
+
+15. (Nothing,"heap",[([],([Addr (Nat 5),Unit,Unit],("B",("B",Nat 0)))),([Addr (Nat 5),Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 11))))])
+
+16. (Nothing,"heap",[([Addr (Nat 5)],([Addr (Nat 5),Unit,Unit],("B",("B",Nat 1)))),([Addr (Nat 5),Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 11))))])
+
+17. (Nothing,"heap",[([],([Addr (Nat 5),Unit,Unit],("A",("A",Nat 0)))),([Addr (Nat 5)],([Addr (Nat 5),Unit,Unit],("B",("B",Nat 1)))),([Addr (Nat 5),Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 11))))])
+
+18. (Nothing,"heap",[([Addr (Nat 5)],([Addr (Nat 5),Unit,Unit],("A",("A",Nat 1)))),([Addr (Nat 5)],([Addr (Nat 5),Unit,Unit],("B",("B",Nat 1)))),([Addr (Nat 5),Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 11))))])
+
+19. (Nothing,"heap",[([Unit,Addr (Nat 5)],([Addr (Nat 5),Unit,Unit],("A",("A",Nat 2)))),([Addr (Nat 5)],([Addr (Nat 5),Unit,Unit],("B",("B",Nat 1)))),([Addr (Nat 5),Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 11))))])
+
+20. (Nothing,"heap",[([Unit],([Addr (Nat 5),Unit,Unit],("B",("B",Nat 2)))),([Addr (Nat 5),Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 11))))])
+
+21. (Nothing,"heap",[([],([Addr (Nat 5),Unit,Unit],("B",("B",Nat 3)))),([Addr (Nat 5),Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 11))))])
+
+22. (Nothing,"heap",[([Unit],([Addr (Nat 5),Unit,Unit],("B",("B",Nat 4)))),([Addr (Nat 5),Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 11))))])
+
+23. (Nothing,"heap",[([Unit,Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 12))))])
+
+24. (Nothing,"heap",[([Addr (Nat 5)],([Null,Addr (Nat 4),Unit,Unit,Addr (Nat 5)],("Test_error",("main",Nat 13))))])
+
+25. (Nothing,"heap",[([],([Null,Addr (Nat 4),Addr (Nat 5),Unit,Addr (Nat 5)],("Test_error",("main",Nat 14))))])
+
+26. (Nothing,"heap",[([Addr (Nat 5)],([Null,Addr (Nat 4),Addr (Nat 5),Unit,Addr (Nat 5)],("Test_error",("main",Nat 15))))])
+
+27. (Nothing,"heap",[([],([Addr (Nat 5),Unit,Unit],("B",("s",Nat 0)))),([Addr (Nat 5)],([Null,Addr (Nat 4),Addr (Nat 5),Unit,Addr (Nat 5)],("Test_error",("main",Nat 15))))])
+
+28. (Nothing,"heap",[([Addr (Nat 5)],([Addr (Nat 5),Unit,Unit],("B",("s",Nat 1)))),([Addr (Nat 5)],([Null,Addr (Nat 4),Addr (Nat 5),Unit,Addr (Nat 5)],("Test_error",("main",Nat 15))))])
+
+29. (Nothing,"heap",[([Intg (Int_of_integer 2),Addr (Nat 5)],([Addr (Nat 5),Unit,Unit],("B",("s",Nat 2)))),([Addr (Nat 5)],([Null,Addr (Nat 4),Addr (Nat 5),Unit,Addr (Nat 5)],("Test_error",("main",Nat 15))))])
+
+30. (Nothing,"heap",[([],([Addr (Nat 5),Unit,Unit],("B",("s",Nat 3)))),([Addr (Nat 5)],([Null,Addr (Nat 4),Addr (Nat 5),Unit,Addr (Nat 5)],("Test_error",("main",Nat 15))))])
+
+31. (Nothing,"heap",[([Unit],([Addr (Nat 5),Unit,Unit],("B",("s",Nat 4)))),([Addr (Nat 5)],([Null,Addr (Nat 4),Addr (Nat 5),Unit,Addr (Nat 5)],("Test_error",("main",Nat 15))))])
+
+32. (Nothing,"heap",[([Unit],([Null,Addr (Nat 4),Addr (Nat 5),Unit,Addr (Nat 5)],("Test_error",("main",Nat 16))))])
+
+33. (Nothing,"heap",[([],([Null,Addr (Nat 4),Addr (Nat 5),Unit,Addr (Nat 5)],("Test_error",("main",Nat 17))))])
+
+34. (Nothing,"heap",[([Addr (Nat 4)],([Null,Addr (Nat 4),Addr (Nat 5),Unit,Addr (Nat 5)],("Test_error",("main",Nat 18))))])
+
+35. (Just (Nat 1),"heap",[([Addr (Nat 4)],([Null,Addr (Nat 4),Addr (Nat 5),Unit,Addr (Nat 5)],("Test_error",("main",Nat 19))))])
+
