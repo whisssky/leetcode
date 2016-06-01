@@ -1,1 +1,0 @@
-java -version 2>c.txt
