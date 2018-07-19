@@ -21,6 +21,7 @@ public class Solution {
 		while(strArray[i] == ' ')
 		{
 			i++;
+
 		}
 		if(strArray[i] == '-' || strArray[i]== '+')
 		{
