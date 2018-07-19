@@ -13,6 +13,7 @@ public class Solution {
 		
 		char []strArray = str.toCharArray();
 		int length = strArray.length;
+
 		long result=0;
 		int ifMinus=1;
 		int i=0;
