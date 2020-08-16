@@ -1,10 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f1209a4-f93f-49ed-8616-784cacdb674e" name="Default" comment="generateParenthesis">
-      <change afterPath="$PROJECT_DIR$/src/SwapNodesinPairs/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SwapNodesinPairs/Solution.java" afterDir="false" />
+    <list default="true" id="5f1209a4-f93f-49ed-8616-784cacdb674e" name="Default" comment="swap-nodes-in-pairs">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/deleteNodeInABST/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coParent/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/coParent/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/coParent/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/commonModel/TreeNode.java" afterDir="false" />
     </list>
     <list id="d74d2897-b400-4aa1-af98-44ede94a00c3" name="项目转移到idea" comment="" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -17,32 +19,76 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/stringToInteger/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/primeNumberofSetBitsinBinaryRepresentation/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="988">
-              <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+            <state relative-caret-position="95">
+              <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs/ListNode.java">
+        <entry file="file://$PROJECT_DIR$/src/deleteNodeInABST/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            <state relative-caret-position="152">
+              <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/firstUniqueCharacterInAString/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/commonModel/TreeNode.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="57">
+              <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/expressionMatching/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/coParent/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-228">
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
-                <element signature="e#105#106#0" expanded="true" />
-                <element signature="e#128#129#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/IntegertoRoman/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/containerWithMostWater/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-228">
+              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -52,27 +98,6 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="380">
               <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/removeDuplicates/removeDuplicates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/generateParentheses/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="21" column="43" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -107,6 +132,12 @@
         <option value="$PROJECT_DIR$/src/generateParentheses/Solution.java" />
         <option value="$PROJECT_DIR$/src/SwapNodesinPairs/ListNode.java" />
         <option value="$PROJECT_DIR$/src/SwapNodesinPairs/Solution.java" />
+        <option value="$PROJECT_DIR$/src/coParent/Solution.java" />
+        <option value="$PROJECT_DIR$/src/coParent/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/primeNumberofSetBitsinBinaryRepresentation/Solution.java" />
+        <option value="$PROJECT_DIR$/src/firstUniqueCharacterInAString/Solution.java" />
+        <option value="$PROJECT_DIR$/src/deleteNodeInABST/Solution.java" />
+        <option value="$PROJECT_DIR$/src/commonModel/TreeNode.java" />
       </list>
     </option>
   </component>
@@ -165,6 +196,60 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="coParent" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="deleteNodeInABST" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="expressionMatching" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="firstUniqueCharacterInAString" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="generateParentheses" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="IntegertoRoman" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="longestSubStringWithoutReapeat" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="medianOfTwoSortedArrays" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="primeNumberofSetBitsinBinaryRepresentation" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="removeDuplicates" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -195,7 +280,7 @@
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1596977965973" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1597575715102" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -204,6 +289,9 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="deleteNodeInABST" />
+      <recent name="firstUniqueCharacterInAString" />
+      <recent name="primeNumberofSetBitsinBinaryRepresentation" />
       <recent name="SwapNodesinPairs" />
       <recent name="generateParentheses" />
     </key>
@@ -438,7 +526,11 @@
       <workItem from="1531977807107" duration="314000" />
       <workItem from="1531978194487" duration="1622000" />
       <workItem from="1596886411378" duration="4744000" />
-      <workItem from="1596977281843" duration="684000" />
+      <workItem from="1596977281843" duration="718000" />
+      <workItem from="1597063998884" duration="1394000" />
+      <workItem from="1597150739051" duration="149000" />
+      <workItem from="1597479174392" duration="722000" />
+      <workItem from="1597575571449" duration="143000" />
     </task>
     <task id="LOCAL-00001" summary="项目转移到idea">
       <created>1531970501148</created>
@@ -482,17 +574,45 @@
       <option name="project" value="LOCAL" />
       <updated>1596897941551</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="swap-nodes-in-pairs">
+      <created>1596977986447</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1596977986447</updated>
+    </task>
+    <task id="LOCAL-00008" summary="二叉树的最近公共祖先">
+      <created>1597064851484</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1597064851484</updated>
+    </task>
+    <task id="LOCAL-00009" summary="prime-number-of-set-bits-in-binary-representation">
+      <created>1597150848104</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1597150848104</updated>
+    </task>
+    <task id="LOCAL-00010" summary="387. First Unique Character in a String">
+      <created>1597479277101</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1597479277101</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8496000" />
+    <option name="totallyTimeSpent" value="10938000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2308" height="944" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1448889" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15022223" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -503,14 +623,14 @@
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info active="true" anchor="bottom" id="Debug" order="3" sideWeight="0.49911112" visible="true" weight="0.39974618" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49911112" weight="0.39974618" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5008889" side_tool="true" visible="true" weight="0.39974618" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.61333334" weight="0.24111675" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.388" side_tool="true" visible="true" weight="0.26142132" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.612" visible="true" weight="0.26142132" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49955556" weight="0.32994923" />
@@ -529,6 +649,16 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -580,7 +710,11 @@
     <MESSAGE value="项目转移到idea" />
     <MESSAGE value="test git" />
     <MESSAGE value="generateParenthesis" />
-    <option name="LAST_COMMIT_MESSAGE" value="generateParenthesis" />
+    <MESSAGE value="swap-nodes-in-pairs" />
+    <MESSAGE value="二叉树的最近公共祖先" />
+    <MESSAGE value="prime-number-of-set-bits-in-binary-representation" />
+    <MESSAGE value="387. First Unique Character in a String" />
+    <option name="LAST_COMMIT_MESSAGE" value="387. First Unique Character in a String" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -601,10 +735,55 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/medianOfTwoSortedArrays/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/stringToInteger/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        <state relative-caret-position="988">
+          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/addTwoNumbers/readme.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <element signature="e#105#106#0" expanded="true" />
+            <element signature="e#128#129#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/generateParentheses/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="43" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/addTwoNumbers/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/longestSubStringWithoutReapeat/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -615,6 +794,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/longestSubStringWithoutReapeat/question3">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/IntegertoRoman/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -622,38 +811,62 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/generateParentheses/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/firstUniqueCharacterInAString/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="21" column="43" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="43" />
+        <state relative-caret-position="285">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/expressionMatching/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/coParent/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-228">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/stringToInteger/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/containerWithMostWater/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="988">
-          <caret line="52" column="11" selection-start-line="52" selection-start-column="11" selection-end-line="52" selection-end-column="11" />
+        <state relative-caret-position="-228">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/medianOfTwoSortedArrays/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#105#106#0" expanded="true" />
-            <element signature="e#128#129#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="380">
+          <caret line="20" column="22" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SwapNodesinPairs/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/primeNumberofSetBitsinBinaryRepresentation/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="33" column="32" lean-forward="true" selection-start-line="33" selection-start-column="32" selection-end-line="33" selection-end-column="32" />
+        <state relative-caret-position="95">
+          <caret line="24" column="20" selection-start-line="24" selection-start-column="20" selection-end-line="24" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/deleteNodeInABST/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commonModel/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
         </state>
       </provider>
     </entry>
