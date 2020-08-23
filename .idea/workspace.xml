@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5f1209a4-f93f-49ed-8616-784cacdb674e" name="Default" comment="121. Best Time to Buy and Sell Stock">
-      <change afterPath="$PROJECT_DIR$/src/commonModel/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/reverseNodesInKGroup/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/rotateList/Solution.java" afterDir="false" />
+    <list default="true" id="5f1209a4-f93f-49ed-8616-784cacdb674e" name="Default" comment="多个题目提交">
+      <change afterPath="$PROJECT_DIR$/src/commonModel/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/copyListWithRandomPointer/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <list id="d74d2897-b400-4aa1-af98-44ede94a00c3" name="项目转移到idea" comment="" />
@@ -18,19 +17,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/bestTimeToBuyAndSellStock/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/removeNthNodeFromEndofList/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+            <state>
+              <caret column="32" selection-start-column="32" selection-end-column="32" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/rotateList/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/copyListWithRandomPointer/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="89" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
+            <state relative-caret-position="-713">
+              <caret line="26" selection-start-line="26" selection-end-line="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/commonModel/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
             </state>
           </provider>
         </entry>
@@ -56,23 +67,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/commonModel/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
-              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="152">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
               <folding>
                 <element signature="e#120#121#0" expanded="true" />
                 <element signature="e#143#144#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/coParent/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -145,6 +144,9 @@
         <option value="$PROJECT_DIR$/src/commonModel/ListNode.java" />
         <option value="$PROJECT_DIR$/src/reverseNodesInKGroup/Solution.java" />
         <option value="$PROJECT_DIR$/src/rotateList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/removeNthNodeFromEndofList/Solution.java" />
+        <option value="$PROJECT_DIR$/src/commonModel/Node.java" />
+        <option value="$PROJECT_DIR$/src/copyListWithRandomPointer/Solution.java" />
       </list>
     </option>
   </component>
@@ -185,8 +187,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -209,25 +209,27 @@
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="reverseNodesInKGroup" type="462c0819:PsiDirectoryNode" />
+              <item name="copyListWithRandomPointer" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="rotateList" type="462c0819:PsiDirectoryNode" />
+              <item name="removeNthNodeFromEndofList" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598021538876" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1598168921176" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
@@ -236,11 +238,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="copyListWithRandomPointer" />
+      <recent name="removeNthNodeFromEndofList" />
       <recent name="reverseNodesInKGroup" />
       <recent name="rotateList" />
       <recent name="bestTimeToBuyAndSellStock" />
-      <recent name="deleteNodeInABST" />
-      <recent name="firstUniqueCharacterInAString" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -479,7 +481,8 @@
       <workItem from="1597479174392" duration="722000" />
       <workItem from="1597575571449" duration="212000" />
       <workItem from="1597764573216" duration="750000" />
-      <workItem from="1598019884028" duration="1084000" />
+      <workItem from="1598019884028" duration="1915000" />
+      <workItem from="1598168631698" duration="290000" />
     </task>
     <task id="LOCAL-00001" summary="项目转移到idea">
       <created>1531970501148</created>
@@ -565,17 +568,24 @@
       <option name="project" value="LOCAL" />
       <updated>1597764648558</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="多个题目提交">
+      <created>1598021664521</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1598021664521</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="12841000" />
+    <option name="totallyTimeSpent" value="13962000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="2308" height="944" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13822222" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13955556" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -592,8 +602,8 @@
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="SonarLint" order="7" />
       <window_info anchor="bottom" id="Terminal" order="8" />
-      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.3888889" side_tool="true" visible="true" weight="0.29822335" />
-      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.6111111" visible="true" weight="0.29822335" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.38933334" side_tool="true" visible="true" weight="0.29822335" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.6106667" visible="true" weight="0.29822335" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="bottom" id="Messages" order="13" sideWeight="0.49955556" weight="0.32994923" />
@@ -679,7 +689,8 @@
     <MESSAGE value="387. First Unique Character in a String" />
     <MESSAGE value="450. Delete Node in a BST" />
     <MESSAGE value="121. Best Time to Buy and Sell Stock" />
-    <option name="LAST_COMMIT_MESSAGE" value="121. Best Time to Buy and Sell Stock" />
+    <MESSAGE value="多个题目提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="多个题目提交" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -800,6 +811,45 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/bestTimeToBuyAndSellStock/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/rotateList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="14" selection-start-column="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/reverseNodesInKGroup/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commonModel/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commonModel/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#120#121#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/IntegertoRoman/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="190">
@@ -828,42 +878,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/bestTimeToBuyAndSellStock/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/removeNthNodeFromEndofList/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="32" selection-start-column="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/commonModel/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="18" lean-forward="true" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+          <caret line="5" column="11" selection-start-line="5" selection-start-column="11" selection-end-line="5" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/commonModel/TreeNode.java">
+    <entry file="file://$PROJECT_DIR$/src/copyListWithRandomPointer/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="11" selection-start-line="3" selection-start-column="11" selection-end-line="3" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/commonModel/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="-713">
+          <caret line="26" selection-start-line="26" selection-end-line="26" />
           <folding>
-            <element signature="e#120#121#0" expanded="true" />
-            <element signature="e#143#144#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/reverseNodesInKGroup/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="60" selection-start-line="2" selection-start-column="60" selection-end-line="2" selection-end-column="60" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/rotateList/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="89" selection-start-line="8" selection-start-column="89" selection-end-line="8" selection-end-column="89" />
         </state>
       </provider>
     </entry>
