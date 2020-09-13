@@ -1,4 +1,4 @@
-package twoSum;
+package kSum;
 
 import java.util.Date;
 import java.util.HashMap;
